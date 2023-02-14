@@ -21,6 +21,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://alandis01.github.io/AW-react-portfolio
-# git push -f git@github.com:alandis01/AW-react-portfolio.git main:gh-pages
+git push -f git@github.com:alandis01/AW-react-portfolio.git main:gh-pages
 
 cd -
